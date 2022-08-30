@@ -1,2 +1,3 @@
 As a customer, 
 I would like to build a feature which solves the waiting problem in a queue.
+New Line added.
